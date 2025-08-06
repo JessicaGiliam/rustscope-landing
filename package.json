@@ -4,7 +4,7 @@
 
   "version": "0.0.0",
 
-  "homepage": "https://jessicagiliam.github.io/rustscope-landing",
+  "homepage": "https://JessicaGiliam.github.io/rustscope-landing",
 
   "private": true,
 
@@ -19,9 +19,9 @@
     "lint": "eslint .",
 
     "preview": "vite preview",
-    
+
     "predeploy": "npm run build",
-    
+
     "deploy": "gh-pages -d dist"
 
   },
